@@ -1,4 +1,4 @@
-cd('IndividualProjections\Models\SW07')
+cd('Models\SW07')
 
 %% Generate SW07 IRFs
 
