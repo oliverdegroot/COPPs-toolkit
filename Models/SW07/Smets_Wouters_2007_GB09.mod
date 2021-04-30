@@ -49,10 +49,10 @@ var labobs robs pinfobs dy dc dinve dw ewma epinfma zcapf rkf kf pkf cf
 varexo ea eb eg eqs em epinf ew;  
  
 parameters curvw cgy curvp constelab constepinf constebeta cmaw cmap calfa 
-    czcap csadjcost ctou csigma chabb ccs cinvs cfc 
+    czcap csadjcost ctou csigma chabb  cfc % ccs cinvs
     cindw cprobw cindp cprobp csigl clandaw 
-    crdpi crpi crdy cry crr 
-    crhoa crhoas crhob crhog crhols crhoqs crhoms crhopinf crhow  
+     crpi crdy cry crr % crdpi
+    crhoa  crhob crhog crhols crhoqs crhoms crhopinf crhow  % crhoas
     ctrend cg
     beta_ss ss_r_ann;
 
