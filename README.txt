@@ -46,7 +46,7 @@ A. Files
 3: 	Replication file for Table D.1 in the working paper on computational times. 
 	Open the script Tab_1.m and execute.
 
-4: 	A manual that describes how to produce COPPs with new models and additional options. 
+4: 	A manual that describes how to produce COPPs with new models and additional options, see COPPs_Manual_v1p0.pdf. 
 
 5:	Run_COPPS.m can be copied to be used as a template. It provides a simple example that runs optimal policy projections for the Smets and Wouters model without constraints. 
 
